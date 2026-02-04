@@ -39,7 +39,7 @@ Built with a strong focus on **UI design, smooth layout, and clean frontend stru
 **Tech:** React.js, Tailwind CSS, Gsap  
 
 🔗 **Live Demo:** https://mojito-cocktail-eight.vercel.app  
-📁 **Source Code:** https://github.com/frontdev-Maulik/
+📁 **Source Code:** https://github.com/frontdev-Maulik/Mojito-Cocktail
 
 ---
 
