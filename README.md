@@ -30,6 +30,19 @@ I enjoy turning ideas into interactive experiences and continuously improving my
 
 ---
 
+## 🌟 Featured Project
+
+### 🔹 Mojito Cocktail Website 🍸
+A visually engaging and fully responsive website showcasing a modern cocktail brand experience.  
+Built with a strong focus on **UI design, smooth layout, and clean frontend structure**.
+
+**Tech:** React.js, Tailwind CSS, Gsap  
+
+🔗 **Live Demo:** https://mojito-cocktail-eight.vercel.app  
+📁 **Source Code:** https://github.com/frontdev-Maulik/
+
+---
+
 ## 📚 What I Focus On
 
 - Writing clean and maintainable code
